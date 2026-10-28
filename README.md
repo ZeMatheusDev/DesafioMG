@@ -28,7 +28,7 @@ As imagens do especialista foram geradas com inteligência artificial, como as o
 
 Os efeitos visuais (brilhos, ícones em SVG e animações) foram feitos só com CSS. As animações que aparecem ao rolar a página funcionam nos navegadores que suportam esse recurso. Nos outros, o conteúdo aparece normalmente, só sem a animação
 
-O formulário usa a validação do próprio navegador. Depois do envio aparece uma mensagem de sucesso, também feita só com CSS (usando :target). O formulário está configurado para o Netlify Forms, então os envios ficam salvos quando o site está hospedado no Netlify
+O formulário usa a validação do próprio navegador. Depois do envio aparece uma mensagem de sucesso, também feita só com CSS (usando :target). Como a página é estática e não tem back-end, o formulário não salva os dados em lugar nenhum, só simula o envio
 
 ## Observações
 

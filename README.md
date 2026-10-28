@@ -2,7 +2,7 @@
 
 Página feita para o teste prático, usando só HTML e CSS puro, sem framework e sem template.
 
-Link do deploy: 
+Link do deploy: https://desafiomg.vercel.app/
 
 ## Como rodar
 

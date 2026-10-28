@@ -594,6 +594,7 @@ ol {
 .expert__grid {
   position: relative;
   display: grid;
+  grid-template-columns: minmax(0, 1fr);
   gap: 24px;
   padding-bottom: 40px;
   overflow: hidden;
@@ -623,7 +624,7 @@ ol {
   display: block;
   margin-top: 6px;
   color: var(--cyan);
-  font-size: clamp(2.6rem, 11vw, 5.2rem);
+  font-size: clamp(1.6rem, 9.5vw, 5.2rem);
   text-transform: uppercase;
   letter-spacing: -0.02em;
   text-shadow: 0 0 40px rgba(43, 192, 239, 0.35);
